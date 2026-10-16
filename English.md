@@ -5,6 +5,9 @@
 
 A Snake game based on the CH32V307 (RISC-V) and ST7735S TFT LCD. Work in progress (WIP).
 Once the hardware is connected and powered on, it should display “Press the Up button to start the game”.
+![start game](https://github.com/2time2222/CH32V307_microcontroller_game_Gluttonous_Snake/blob/main/img/start_game.png)  
+
+The Chinese text in the picture translates to "Start the game".
 
 # Hardware Connections
 
