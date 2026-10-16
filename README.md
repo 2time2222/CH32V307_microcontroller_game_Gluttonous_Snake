@@ -6,6 +6,8 @@
 基于 CH32V307 (RISC-V) 与 ST7735S TFT LCD 的贪吃蛇游戏，开发中 (WIP)。
 当你连接好了硬件，上电后应该会显示“按上键开始游戏”
 
+![start game](https://github.com/2time2222/CH32V307_microcontroller_game_Gluttonous_Snake/blob/main/img/start_game.png)
+
 # 硬件连接
 
 | 微控制器 | ST7735s LCD 模块 |
