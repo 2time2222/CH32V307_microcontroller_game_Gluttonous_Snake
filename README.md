@@ -1,6 +1,6 @@
 # CH32V307_microcontroller_game_Gluttonous_Snake
 
-[中文版](https://)
+[中文版](https://github.com/2time2222/CH32V307_microcontroller_game_Gluttonous_Snake/blob/main/README.md)
 [English](https://github.com/2time2222/CH32V307_microcontroller_game_Gluttonous_Snake/blob/main/English.md)
 
 基于 CH32V307 (RISC-V) 与 ST7735S TFT LCD 的贪吃蛇游戏，开发中 (WIP)。
